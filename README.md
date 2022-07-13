@@ -33,7 +33,7 @@
 * Output:  ```Unsigned octal:[6] => 18```
 
 Authors: Taofeeq Taofeeqat Olawumi
-	 Adelakun Kehinde
+	 Emmanuel Gyang
 
 
 
